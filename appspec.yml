@@ -1,4 +1,4 @@
-version: 2.3
+version: 2.6
 os: linux
 files:
   - source: target/ROOT.war
